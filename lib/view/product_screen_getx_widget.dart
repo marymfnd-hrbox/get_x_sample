@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:get_x_sample/controller/product_controller.dart';
 
 class ProductScreenGetx extends StatelessWidget {
-  ProductScreenGetx({super.key});
+  const ProductScreenGetx({super.key});
  
   @override
   Widget build(Object context) {

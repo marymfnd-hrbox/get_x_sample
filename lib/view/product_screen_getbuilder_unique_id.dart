@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:get_x_sample/controller/product_getbuilder_unique_id_controller.dart';
 
 class ProductScreenGetBuilderUniqueId extends StatelessWidget {
-  ProductScreenGetBuilderUniqueId({super.key});
+  const ProductScreenGetBuilderUniqueId({super.key});
 
   @override
   Widget build(Object context) {
